@@ -10,7 +10,7 @@ This application is a small ledger that supports the following features
 
 This application is written using Java 21, Spring Boot 3 and using a H2 in memory datastore.
 
-To run it please execute 
+To run it please have JAVA_HOME env var set and execute 
 ```
 ./mvnw spring-boot:run 
 ```
